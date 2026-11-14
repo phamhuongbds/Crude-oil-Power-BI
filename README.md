@@ -8,12 +8,12 @@ Volatility, euro cost and event reactions: a business analysis in Power BI
 
 A German company with fuel costs buys in euros, but the oil market prices in US dollars. This project follows ten years of daily WTI crude oil prices (January 2016 to 28 October 2026) together with exchange rates, interest rates, inflation, equity indices, and a table of 40 dated events, and asks what that history means for a fuel budget.
 
-The analysis is **descriptive**. It shows what happened and how markets moved together. It does not forecast prices or give investment advice.
+The analysis is descriptive. It shows what happened and how markets moved together. It does not forecast prices or give investment advice.
 
 The work has two parts:
 
 - **Python (Jupyter notebook)** downloads and cleans the data and writes four tables for Power BI.
-- **Power BI report** with six pages, one for each business question, plus an overview page and a drill-through page for single events.
+- **Power BI report** with five pages, one for each business question, plus an overview page and a drill-through page for single events.
 
 ![Overview page](figures/01_overview.png)
 
